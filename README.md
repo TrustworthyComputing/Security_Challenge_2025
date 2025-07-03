@@ -13,3 +13,7 @@ A final PDF report will be due on **August 20th**. The report should include a b
 The Microelectronics Security Competition 2025 will focus on Side Channel Attacks (SCAs) targeting Cyber-Physical Systems (CPS). CPS are essential components in industries ranging from manufacturing to critical infrastructure - but even when protected by strong cryptography, improper configurations can leave them vulnerable to subtle side-channel leaks.
 
 In this year’s challenge, participants are invited to analyze SCAs on Arduino Uno-based CPS platforms, each running different firmware versions that expose various side channels. Several challenges focus on audio side channels, where sounds produced by electromechanical devices leak secrets to the user. These signals may need to be recorded and analyzed to solve the challenge. Participants will identify and exploit these channels and are welcome to discuss real-world mitigations.
+
+## Quick Links
+* [Hardware Assembly and Test](https://github.com/TrustworthyComputing/Security_Challenge_2025/tree/main/challenges/hardware_setup)
+* [How to Program](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/hardware_setup/HowToFlash.md)
