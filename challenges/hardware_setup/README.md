@@ -1,7 +1,7 @@
 ## Hardware Test Files
 
 These programs can be used to test the hardware. 
-A short video with assembly instructions for the ESC hardware is available [here](https://tinyurl.com/Microelectronics2025-assembly).
+A short video with assembly instructions for the provided hardware is available [here](https://tinyurl.com/Microelectronics2025-assembly).
 
 All components were tested before shipping. A few extra components were provided in case of electrostatic discharge issue.
 
