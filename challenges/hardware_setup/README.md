@@ -5,6 +5,8 @@ A short video with assembly instructions for the ESC hardware is available [here
 
 All components were tested before shipping. A few extra components were provided in case of electrostatic discharge issue.
 
+Instructions on how to upload the hex files can be found [here](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/hardware_setup/HowToFlash.md).
+
 ### Speaker Mic Test
 
 In this test, the speaker will play a series of test frequencies to be detected by the microphone. The test results will be printed out on the serial port.
