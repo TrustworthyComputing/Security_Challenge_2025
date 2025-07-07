@@ -4,9 +4,9 @@ The challenges focus on leaking sound based side channels. The sounds emitted by
 
 Each of the prompts contain hints as to approach the challenge. Be sure to read them carefully and see if anything stands out!! 
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week1/bluebox.png" alt="BlueboxPhreakers" align="left" width="250" height="175" title="Jobs-Wozniak Bluebox Phreakers">
-
 ## Mission: Bluebox
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week1/bluebox.png" alt="BlueboxPhreakers" align="left" width="275" height="225" title="Jobs-Wozniak Bluebox Phreakers">
+
 
 Deep within a hidden underground bunker, your team stumbles upon a relic of hacker history — the fabled Blue Box device. Once used by early phreakers to manipulate telephone networks, this piece of tech holds secrets long thought lost.
 
@@ -14,9 +14,10 @@ To unlock the mysteries of the lair, you must decode a series of classic telepho
 
 Time is running out — the authorities are closing in. Can you resurrect this legendary hack before your signal goes dead?
 
-<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/Vendy.jpeg" alt="Vendy" align="left" width="250" height="300" title="Vendy">
 
 ## Mission: Snack Hack
+
+<img src="https://github.com/TrustworthyComputing/csaw_esc_2023/blob/main/challenges/week3/Vendy.jpeg" alt="Vendy" align="left" width="250" height="300" title="Vendy">
 
 You roll up to the chrome beast — a vending machine humming like a fine-tuned street rod, promising sugar, salt, and satisfaction. Behind its glass panel, snacks shimmer in bright wrappers: chips that crunch like gravel under tires, chocolate bars revved and ready to melt in your mouth.
 
