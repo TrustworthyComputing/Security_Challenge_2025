@@ -1,6 +1,13 @@
-This is a hints page. Email <tsoutsos@udel.edu> to request a hint. We are also able to answer more specific questions.
+# Scoring
 
-Note that each challenge comes with a 20% bonus for solving without hints. The first hint will reduce this bonus to 10%, and further hints will continue to reduce the bonus.
+Solving each of the six challenges will be worth up to 100 points. Several challenges will give partial credit for partial solutions. The report must be detailed enough to show that you solved the challenge.
+
+Each challenge offers up to a 10-point "hint" bonus for solving it without assistance. Requesting hints will gradually reduce the available bonus.
+
+The final report will be worth an additional 100 points based on writing quality and the ingenuity of your solutions. The report should include a description of your setup and tools that you used, a brief overview of the challenges, and a detailed account of how you solved the challenges. The report is expected to provide details on all challenges, including the challenge flags, sample inputs used to get the flag, and relevant screenshots.
+
+# Hints
+Email <tsoutsos@udel.edu> to request a hint. We are also able to answer more specific questions.
 
 ## Bluebox
 1. What do the beeps mean?
