@@ -18,4 +18,4 @@ In this year’s challenge, participants are invited to analyze SCAs on Arduino 
 * [Hardware Assembly and Test](https://github.com/TrustworthyComputing/Security_Challenge_2025/tree/main/challenges/hardware_setup)
 * [How to Flash HEX File](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/hardware_setup/HowToFlash.md)
 * [Hints](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/Hints.md)
-* [Week1 Challanges Released](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/week1)
+* [Week1 Challenges Released](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/week1)
