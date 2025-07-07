@@ -1,6 +1,6 @@
 # Scoring
 
-Solving each of the six challenges will be worth up to 100 points. Several challenges will give partial credit for partial solutions. The report must be detailed enough to show that you solved the challenge.
+Solving each of the six challenges will be worth 100 points. Several challenges will give partial credit for partial solutions. The report must be detailed enough to show that you solved the challenge.
 
 Each challenge offers up to a 10-point "hint" bonus for solving it without assistance. Requesting hints will gradually reduce the available bonus.
 
