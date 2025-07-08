@@ -10,8 +10,10 @@ The final report will be worth an additional 100 points based on writing quality
 Email <tsoutsos@udel.edu> to request a hint. We are also able to answer more specific questions.
 
 ## Bluebox
+**NOTE: Binary was updated (v2) with added hints and new flag.**
 1. What do the beeps mean?
 2. What are strategies to decode the beeps?
+
 
 ## Snack Hack
 1. What do the clicks and serial messages mean?
