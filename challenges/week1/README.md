@@ -14,7 +14,7 @@ To unlock the mysteries of the lair, you must decode a series of classic telepho
 
 Time is running out — the authorities are closing in. Can you resurrect this legendary hack before your signal goes dead?
 
-**NOTE: Binary was updated with new flag.**
+**NOTE: Binary was updated (v2) with added hints and new flag.**
 
 ## Mission: Snack Hack
 
