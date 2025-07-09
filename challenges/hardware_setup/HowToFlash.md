@@ -13,6 +13,7 @@ We list the instructions below on how to program (aka "flash") the arduino board
 
 <img src="https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/hardware_setup/DocumentName.png" alt="" align="center"  title=""  width="500" height="300">
 4. Close the Arduino IDE. If it is still open, the Arduino IDE hold onto the USB port and will deny your from programming the board.
+
 5. Open up the command line or terminal. Edit the command to program, replacing the file location and filename with your hex file.
 
 e.g. `C:\Users\youDee\AppData\Local\arduino\sketches\E93B8BC6EBE5690A9D5E5D782D485388/` changes to `C:\Users\youDee\Downloads\`
