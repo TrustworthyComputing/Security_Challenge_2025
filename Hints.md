@@ -17,3 +17,13 @@ Email <tsoutsos@udel.edu> to request a hint. We are also able to answer more spe
 1. What do the clicks and serial messages mean?
 2. How could I automate this? 
 
+## Escape From Cottonland
+This challenge uses a speaker and microphone. Initial microphone readings are provided at startup to help tune the microphone sensitivity with the potentiometer.
+
+1. How do I decode the message from the Happy Tap Dancing Socks Message Machine 2000?
+2. How do I send a message from the Happy Tap Dancing Socks Message Machine 2000?
+
+## NUVxVTNuQzM
+1. How do I decode the strange looking strings?
+2. Why do the numbers blur?
+3. How do I determine "what comes next"?
