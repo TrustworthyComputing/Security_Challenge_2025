@@ -9,9 +9,14 @@ The final report will be worth an additional 100 points based on writing quality
 # Hints
 Email <tsoutsos@udel.edu> to request a hint. We are also able to answer more specific questions.
 
+## General
+* For the challenges, you will need to both receive and send messages to the board using Arduino Serial Monitor at 115200 baud. See Steps 6-8 of [How to Flash](https://github.com/TrustworthyComputing/Security_Challenge_2025/blob/main/challenges/hardware_setup/HowToFlash.md)
+  
 ## Bluebox
+**NOTE: Binary was updated (v2) with added hints and new flag.**
 1. What do the beeps mean?
 2. What are strategies to decode the beeps?
+
 
 ## Snack Hack
 1. What do the clicks and serial messages mean?
